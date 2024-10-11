@@ -12,6 +12,5 @@ Este projeto consiste na construção de uma interface para um aplicativo web em
 
 Para este projeto criei 3 arquivos que estão disponveis acima os tres arquivos são `html.html`, `index.css` e `App.js` para a realização da atividade. Esses tres arquivos estão configurados para ser usado no site `CodePen`. abaixo esta a interface onde o usuario teria para a compra dos cursos. 
 
-![Uploading Captura de tela 2024-10-10 220246.png…]()
 
-
+![image](file:///C:/Users/thiag/OneDrive/Imagens/Capturas%20de%20tela/Captura%20de%20tela%202024-10-10%20220246.png)
