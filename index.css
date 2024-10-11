@@ -1,3 +1,4 @@
+/* Estilo global da página */
 body {
   font-family: Arial, sans-serif;
   margin: 0;
@@ -5,6 +6,7 @@ body {
   background-color: #f0f0f0;
 }
 
+/* Estilo do cabeçalho */
 header {
   background-color: #b22222; 
   color: white;
@@ -16,6 +18,7 @@ header h1 {
   margin: 0;
 }
 
+/* Estilo da navegação */
 nav ul {
   list-style: none;
   padding: 0;
@@ -39,6 +42,7 @@ nav ul li a:hover {
   text-decoration: underline;
 }
 
+/* Estilo do rodapé */
 footer {
   background-color: #333;
   color: white;
@@ -49,11 +53,13 @@ footer {
   bottom: 0;
 }
 
+/* Estilo dos títulos */
 h1, h2, h3 {
   color: #000000; 
   text-align: center;
 }
 
+/* Estilo do contêiner principal */
 .container {
   max-width: 800px;
   margin: 20px auto;
@@ -63,11 +69,13 @@ h1, h2, h3 {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+/* Estilo da lista de produtos */
 ul {
   list-style: none;
   padding: 0;
 }
 
+/* Estilo dos itens da lista */
 li {
   background: linear-gradient(145deg, #cd5c5c, #dc143c); 
   margin: 10px 0;
@@ -86,15 +94,18 @@ li:hover {
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 }
 
+/* Estilo do texto dos itens da lista */
 li span {
   color: #000000; 
   font-weight: bold;
 }
 
+/* Estilo do separador de preço */
 li .separator {
   color: #000000; 
 }
 
+/* Estilo dos botões */
 button {
   margin-left: 10px;
   padding: 5px 10px;
@@ -112,7 +123,39 @@ button:hover {
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
 }
 
+/* Estilo dos inputs */
 input {
   margin-left: 10px;
   width: 40px;
-  padding
+  padding: 5px;
+  border-radius: 3px;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+
+/* Estilo do título do total */
+h3 {
+  text-align: center;
+  color: #b22222;
+}
+
+/* Estilo do carrinho vazio */
+.cart-empty {
+  text-align: center;
+  color: #ccc;
+  font-style: italic;
+}
+
+/* Estilo do ícone do carrinho */
+.cart-icon {
+  font-size: 24px;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+.cart-empty-icon {
+  font-size: 50px;
+  color: #ccc;
+  text-align: center;
+  display: block;
+}
