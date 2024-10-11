@@ -2,10 +2,10 @@
 Atividade Supervisionada – Dispositivos Móveis
 ## Informações do Aluno
 
- - ## Disciplina: `Desenvolvimento de Aplicações Móveis`
- - ## Aluno: `Thiago Ribeiro Chaves`
- - ## Matricula: `2019200753`
- - ## Turma: `961`
+ -  Disciplina: `Desenvolvimento de Aplicações Móveis`
+ -  Aluno: `Thiago Ribeiro Chaves`
+ -  Matricula: `2019200753`
+ -  Turma: `961`
 
 ## Linguagens e Ferramentas
 
