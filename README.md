@@ -15,3 +15,7 @@ Para este projeto criei 3 arquivos que estão disponveis acima os tres arquivos 
 
 
 ![Captura de tela 2024-10-10 220246](https://github.com/user-attachments/assets/8cbb0f25-6153-4bc3-b301-735875fabdf4)
+
+
+com botões interativos consigo efetuar as compras dos cursos e adicionar ao meu carrinho de compras e selecionar a quantidade de recursos como tambem remover elas
+![Captura de tela 2024-10-10 222455](https://github.com/user-attachments/assets/e1f13daa-1c49-40f8-a300-0bf83b186d4d)
