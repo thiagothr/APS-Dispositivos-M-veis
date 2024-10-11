@@ -1,2 +1,2 @@
-# APS-Dispositivos-M-veis
+# APS-Dispositivos-Moveis
 Atividade Supervisionada – Dispositivos Móveis
